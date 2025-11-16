@@ -19,8 +19,8 @@
 This repository will serve as the official code companion to the upcoming book "Teaching Computers to Read: Effective Best Practices in Building Valuable NLP Solutions".
 
 **Released**: November 2025  
-**Author**: [Dr. Rachel Wagner-Kaiser](https://www.linkedin.com/in/rawagnerkaiser/), with contributions from [Tim Cerino](https://www.linkedin.com/in/timcerino/)
-**Repo*: Repo and setup for the TC2R Code Companion [here](https://github.com/TeachingComputersToRead/TC2R-CodeCompanion).
+**Author**: [Dr. Rachel Wagner-Kaiser](https://www.linkedin.com/in/rawagnerkaiser/), with contributions from [Tim Cerino](https://www.linkedin.com/in/timcerino/)<br/>
+**Repo**: Repo and setup for the TC2R Code Companion [here](https://github.com/TeachingComputersToRead/TC2R-CodeCompanion).
 
 Fill out this [Google form](https://forms.gle/2zpqHBU1M7hkWLrR6) to sign up for the email list.
 
