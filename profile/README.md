@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+    <img src="resources/bookcover.jpg" alt="Bookcover" width="1.75%"> <a href="https://teachingcomputers.wixsite.com/teachingcomputers">Check out the author webpage</a>
+  </p>
+
+<p align="center">
     <img src="resources/crc-mini.jpg" alt="CRC Logo" width="1.75%"> <a href="https://www.routledge.com/Teaching-Computers-to-Read-Effective-Best-Practices-in-Building-Valuab/Wagner-Kaiser/p/book/9781032484372">Check out the book on CRC Press</a>
   </p>
 
@@ -16,10 +20,11 @@
 
 <br/>
 
-This repository will serve as the official code companion to the upcoming book "Teaching Computers to Read: Effective Best Practices in Building Valuable NLP Solutions".
+Welcome to the official code companion to the book "Teaching Computers to Read: Effective Best Practices in Building Valuable NLP Solutions".
 
 **Released**: November 2025  
 **Author**: [Dr. Rachel Wagner-Kaiser](https://www.linkedin.com/in/rawagnerkaiser/), with contributions from [Tim Cerino](https://www.linkedin.com/in/timcerino/)<br/>
+**Website**: Visit the [Website](https://teachingcomputers.wixsite.com/teachingcomputers) to check out Rachel's recent and upcoming events.
 **Repo**: Repo and setup for the TC2R Code Companion [here](https://github.com/TeachingComputersToRead/TC2R-CodeCompanion).
 
 Fill out this [Google form](https://forms.gle/2zpqHBU1M7hkWLrR6) to sign up for the email list.
